@@ -1,4 +1,8 @@
 123456
+admin
+root
+toor
+qwerty
 Password1234
 Abcd1234
 Asdfghjkl
@@ -8,3 +12,7 @@ JAck@#£
 John@404
 3b4jkpasswd
 $6$pa55W0Rd
+DhAkA2021
+BxxUxxDxDxDxxA
+n*t*l*x,f#©Eb00|<
+N$$R
